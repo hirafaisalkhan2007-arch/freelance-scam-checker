@@ -9,7 +9,7 @@
 [![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![Firebase](https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 
-**Live Deployed Application:** [https://shieldlance.netlify.app/](https://shieldlance.netlify.app/)
+**Live Deployed Application:** [https://shieldlance-0.netlify.app/](https://shieldlance-0.netlify.app/)
 
 ---
 
@@ -32,7 +32,7 @@ Freelancers, gig workers, and remote contractors lose millions of dollars and th
 
 ## 🌐 Live Application URL
 
-🔗 **Access the live deployed app:** [https://shieldlance.netlify.app/](https://shieldlance.netlify.app/)
+🔗 **Access the live deployed app:** [https://shieldlance-0.netlify.app/](https://shieldlance-0.netlify.app/)
 
 ---
 
