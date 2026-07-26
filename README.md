@@ -48,7 +48,7 @@ Freelancers, gig workers, and remote contractors lose millions of dollars and th
 
 ### 3. Freelancer Safety & Defense Quiz
 ![ShieldLance Safety Quiz](./src/assets/images/quiz.png)
-*Gamified 5-scenario evaluation tool testing freelancer fraud awareness with instant scoring, detailed explanations, and safety tips.*
+*Gamified 4-scenario evaluation tool testing freelancer fraud awareness with instant scoring, detailed explanations, and safety tips.*
 
 ---
 
@@ -119,7 +119,7 @@ The server enforces a structured schema requiring:
 * **Backend API & Server:** Node.js, Express, `esbuild`, `tsx`
 * **AI Model & SDK:** Google Gemini 3.6 Flash (`gemini-3.6-flash`), `@google/genai` SDK
 * **Database & Auth:** Firebase v12 (Firestore Database & Firebase Authentication)
-* **Hosting & Deployment:** Netlify ([Live App](https://shieldlance.netlify.app/)), Cloud Run container environment
+* **Hosting & Deployment:** Netlify ([Live App](https://shieldlance-0.netlify.app/)), Cloud Run container environment
 
 ---
 
