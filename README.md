@@ -4,7 +4,7 @@
 
 ### AI-Powered Remote Work Fraud Detection, Contract Safety Specialist & Client Vetting Platform
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-https%3A%2F%2Fshieldlance.netlify.app%2F-indigo?style=for-the-badge)](https://shieldlance.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-https%3A%2F%2Fshieldlance.netlify.app%2F-indigo?style=for-the-badge)](https://shieldlance-0.netlify.app/)
 [![Gemini AI Powered](https://img.shields.io/badge/Gemini_3.6_Flash-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
 [![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![Firebase](https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
