@@ -39,15 +39,15 @@ Freelancers, gig workers, and remote contractors lose millions of dollars and th
 ## 🖼️ Application Screenshots
 
 ### 1. AI Scan & Risk Analysis Dashboard
-![ShieldLance Analyzer Dashboard](./src/assets/images/analyzer_dashboard_1785025435868.jpg)
+![ShieldLance Analyzer Dashboard](./src/assets/images/analyzer.png)
 *Multimodal analysis interface displaying objective 0–100 risk scoring, severity-categorized red flags, contract warnings, and AI-generated protective replies.*
 
 ### 2. Interactive Scam Pattern Library
-![ShieldLance Scam Library](./src/assets/images/scam_library_1785025456671.jpg)
+![ShieldLance Scam Library](./src/assets/images/library.png)
 *Comprehensive reference knowledge base breaking down major remote work fraud schemes with real-world examples, threat indicators, and mitigation checklists.*
 
 ### 3. Freelancer Safety & Defense Quiz
-![ShieldLance Safety Quiz](./src/assets/images/safety_quiz_1785025476613.jpg)
+![ShieldLance Safety Quiz](./src/assets/images/quiz.png)
 *Gamified 5-scenario evaluation tool testing freelancer fraud awareness with instant scoring, detailed explanations, and safety tips.*
 
 ---
