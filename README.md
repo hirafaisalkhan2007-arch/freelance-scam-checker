@@ -50,6 +50,22 @@ Freelancers, gig workers, and remote contractors lose millions of dollars and th
 ![ShieldLance Safety Quiz](./src/assets/images/quiz.png)
 *Gamified 4-scenario evaluation tool testing freelancer fraud awareness with instant scoring, detailed explanations, and safety tips.*
 
+### 4. Red Flags & Risk Breakdown Section
+![alt text](<Screenshot 2026-07-27 231457.png>)
+*Highlights critical vulnerabilities across Payment Systems, Off-Platform Risks, Unrealistic Pay Rates, Identity Requests, and Unpaid Spec Demands, while recognizing legitimate safety indicators.*
+
+### 5. Action Plan & Safety Next Steps
+![alt text](<Screenshot 2026-07-27 231511.png>)
+*Provides prioritized, actionable safety instructions advising freelancers on immediate steps to mitigate risk, decline suspicious requests, or secure platform escrow.*
+
+### 6. Safe Reply Generator
+![alt text](<Screenshot 2026-07-27 231530.png>)
+*Instantly drafts polite, firm, non-confrontational message templates for freelancers to enforce platform escrow rules, reject fake checks, or request identity verification.*
+
+### 7.  Scan History & Saved Vault 
+![alt text](<Screenshot 2026-07-27 231615.png>)
+*A client-side persistent log where freelancers can revisit past scans, review risk scores, re copy safe response templates, search through historical analyses, and manage saved investigation records without creating an account or storing data on external servers.*
+
 ---
 
 ## ✨ Comprehensive Feature Matrix
